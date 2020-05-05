@@ -8,8 +8,9 @@ Projeto de API utilizando NodeJs e Banco de Dados PostgreSQL utilizando uma Quer
 
 
  
-  Foi desenvolvido rotas do backend para um CRUD.		 Foi desenvolvido rotas do backend para um CRUD.
+  Foi desenvolvido rotas do backend para um CRUD.
 
+  
   ### Languages
 
   * Javascript
