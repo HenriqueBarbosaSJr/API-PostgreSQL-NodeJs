@@ -25,4 +25,4 @@ Projeto de API utilizando NodeJs e Banco de Dados PostgreSQL utilizando uma Quer
  * cors
 
   ---
- Made by 💙 by [Henrique Barbosa de Souza Júnior](https://github.com/HenriqueBarbosaSJr)
+ Made with 💙 by [Henrique Barbosa de Souza Júnior](https://github.com/HenriqueBarbosaSJr)
