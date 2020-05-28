@@ -4,10 +4,10 @@ module.exports = {
 
   development: {
     client: 'pg',
-    connection: {
-      database: "knex_test",
-      user:"postgres",
-      password:'123456'
+    connection: {   
+      user : 'postgres',
+      password : '123456',
+      database : 'knex_test'
     },
     migrations:{
       tableName: 'knex_migrations',
